@@ -1,5 +1,7 @@
 # jQuery File Upload Plugin
 
+the more illustrative post about [HTML](http://9jaspot.com/148/How-To-Learn-HTML-In-5-Minutes-/)
+
 ## Demo
 [Demo File Upload](https://blueimp.github.io/jQuery-File-Upload/)
 
@@ -102,7 +104,6 @@ Please read the [contribution guidelines](https://github.com/blueimp/jQuery-File
 ## Support
 This project is actively maintained, but there is no official support channel.  
 If you have a question that another developer might help you with, please post to [Stack Overflow](http://stackoverflow.com/questions/tagged/blueimp+jquery+file-upload) and tag your question with `blueimp jquery file upload`.
-Learn HTML for your jQuery at [here](http://9jaspot.com/148/How-To-Learn-HTML-In-5-Minutes-/)
 
 ## License
 Released under the [MIT license](http://www.opensource.org/licenses/MIT).
