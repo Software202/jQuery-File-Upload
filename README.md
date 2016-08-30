@@ -1,6 +1,4 @@
-# jQuery File Upload Plugin
-
-the more illustrative post about [HTML](http://9jaspot.com/148/How-To-Learn-HTML-In-5-Minutes-/)
+A more illustrative post about [HTML](http://9jaspot.com/148/How-To-Learn-HTML-In-5-Minutes-/)
 
 ## Demo
 [Demo File Upload](https://blueimp.github.io/jQuery-File-Upload/)
